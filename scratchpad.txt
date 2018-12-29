@@ -1,0 +1,4 @@
+Recurrent Neural Network trained using reinforcement learning - chances we are in optimal winning state in X moves?
+Neuroevolution to evolve architecture after that.
+
+Train vs. self

@@ -1,0 +1,9 @@
+from matplotlib.pylab import
+
+RL
+http://pybrain.org/docs/tutorial/reinforcement-learning.html
+agent is where the learning happens
+	- getAction()
+	- integrateObservation()
+controller takes states as inputs and transforms them into actions
+task connects agent and environment 
