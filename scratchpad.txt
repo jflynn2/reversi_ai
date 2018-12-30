@@ -1,4 +1,11 @@
 Recurrent Neural Network trained using reinforcement learning - chances we are in optimal winning state in X moves?
+Initially just use expected score next turn? 
+Can cluster similar move types if we come up with features.
+
 Neuroevolution to evolve architecture after that.
 
 Train vs. self
+
+
+
+General low-mid complexity game solving programme? Takes inputs and outputs best move?
